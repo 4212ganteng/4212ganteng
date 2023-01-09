@@ -1,6 +1,6 @@
 <h1 align="center">
 
-### Hi there 👋, I'm 4212ganteng
+   <b> Hi there 👋, I'm 4212ganteng </b>
 
 </h1>
 <p align="center">
