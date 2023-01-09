@@ -1,4 +1,14 @@
+<h1 align="center">
+
 ### Hi there 👋, I'm 4212ganteng
+
+</h1>
+<p align="center">
+   -Bissmillah Sukses.
+ </p>
+<br/>
+
+
 
 **About me**
 
@@ -20,6 +30,10 @@
 ![](https://komarev.com/ghpvc/?username=4212ganteng&color=red)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4212ganteng&show_icons=true&theme=dracula&border_radius=5)
+
+
+### Support Me :
+<a href="https://www.buymeacoffee.com/4212ganteng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4212ganteng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
