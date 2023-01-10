@@ -3,12 +3,12 @@
    <b> Hi there 👋, I'm </b>
 
 </h1>
-<p align="center"><a href="https://github.com/4212ganteng"><img width="100%" alt="Hello, I'm 4212ganteng!" src="./assets/hi.png" /></a></p>
+<p align="center"><a href="https://github.com/4212ganteng"><img width="100%" alt="Hello, I'm 4212ganteng!" src="./assets/hello.png" /></a></p>
 
 <br />
-<p align="center">
+<!-- <p align="center">
    -Bissmillah Sukses.
- </p>
+ </p> -->
 <br/>
 
 
